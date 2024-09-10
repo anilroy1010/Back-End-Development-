@@ -1,1 +1,3 @@
 Hello From node js by Anil!
+
+Read this file by node native module.
